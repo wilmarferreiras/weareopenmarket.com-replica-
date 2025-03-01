@@ -1,0 +1,180 @@
+.navigation-image{
+    padding-left: 115px;
+    padding-top: 50px;
+    margin-top: 0px;
+    margin-bottom: -150px;
+    
+}
+.navigation-menue{
+    text-align: center;
+    padding-left:5px;
+    margin-top: 75px;
+    margin-right: 0px;
+    margin-left: 0px;
+    font-size: x-large;
+    
+}
+#list-1{
+    padding: 8px;
+}
+#list-2{
+    padding: 8px;
+}
+#list-3{
+    padding: 8px;
+}
+#list-4{
+    padding: 8px;
+}
+#list-5{
+    padding: 8px;
+}
+.cart-button{
+    margin-top: 0px;
+    margin-left: 1000px;
+    border-color: purple;
+    margin-bottom: 250;
+    height: 80px;
+    width: 150px;
+    font-size: 20px;
+    padding-right: 50px;
+}
+.cart-button div{
+    width: 100%;
+}
+#Main-header{   
+    text-align: center;
+    color: crimson;
+    font-size: 40px;
+}
+.branding-image{
+    text-align: center;
+    border-right: 0px;
+    padding-top: 20px;
+    padding-left: 50PX;
+    width: 100%;
+    margin-top: -20px;
+}
+#we-are-open-market-header{
+    text-align: center;
+    color: crimson;
+    font-size: 50px;
+}
+#we-open-market-discription{
+    text-align: center;
+    font-size: 30px;
+}
+.signature-image{
+    width:100% 
+}
+#miain-product-header{
+    font-size: 40px;
+    color: crimson;
+    padding-left: 50px;
+}
+.brows-products{
+   display: flex;
+   gap: 5px;
+   width: 100%;
+   margin-bottom: 50px;
+}
+.brows-products  img{
+    width: 170px;
+}
+.brows-products a{
+    display: flex;
+    justify-content: left;
+
+}
+.review-commnet{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    width: 100%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.review-commnet div{
+    border-color: black;
+    border: 10px;
+}
+.review-commnet img{
+    width: 50px;
+}
+.review-commnet p{
+    font-size: 12px;
+    margin-left: 95px;
+}
+#our-driving-mission-header{
+    text-align:  center;
+    font-size: 50px;
+}
+.our-mission-image-discription{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 100px;
+}
+.our-mission-image-discription img{
+    width: 300px
+}
+.our-mission-image-discription p{
+    font-size: 20px;
+}
+#get-involved-header{
+    text-align: center;
+    color: crimson;
+    font-size: 50px;
+}
+.Get-involved-images{
+    display: flex;
+    justify-content: center;
+    gap: 75px;;
+}
+.Get-involved-images img{
+    width: 250px;
+}
+.Get-involved-images h2{
+    text-align: center;
+    font-size: 40px;
+}
+.join-us{
+    position: relative;
+    top: 200px;
+    padding-left: 50px;
+}
+.join-us img{
+    float: left;
+    
+}
+.join-us h2{
+    color: crimson;
+    font-size: 40px;
+}
+.formfield{
+    float: right;
+    padding-right: 50px;
+}
+.formfield input{
+    width: 98%;
+    font-size: 20px;
+    height: 65px;
+}
+.formfield button{
+    width: 100%;
+    height: 75px;
+    background-color: red;
+    color: white;
+}
+#footer-image{
+    border-right: 0px;
+    padding-top: 20px;
+    padding-left: 20PX;
+    padding-right: 50px;
+    width: 100%;
+    margin-top: -20px;
+}
+.footer{
+    text-align: center;
+    font-size: 20px;
+}
